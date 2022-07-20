@@ -1,27 +1,27 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.c882bed7.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.c882bed7.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.694a4a57.chunk.js": "/expo-gh-pages/static/js/2.694a4a57.chunk.js",
-    "static/js/2.694a4a57.chunk.js.map": "/expo-gh-pages/static/js/2.694a4a57.chunk.js.map",
-    "fonts/MaterialCommunityIcons.ttf": "/expo-gh-pages/./fonts/MaterialCommunityIcons.ttf",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.694a4a57.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.694a4a57.chunk.js.LICENSE.txt",
-    "static/media/file.png": "/expo-gh-pages/static/media/file.73e9524a.png",
-    "static/media/filePublic.png": "/expo-gh-pages/static/media/filePublic.2537e54c.png",
-    "static/media/folder.png": "/expo-gh-pages/static/media/folder.5107a6da.png",
-    "static/media/logo.png": "/expo-gh-pages/static/media/logo.a7ce87a3.png"
+    "app.js": "/DApp-Web3-IPFS-Expo/static/js/app.c882bed7.chunk.js",
+    "app.js.map": "/DApp-Web3-IPFS-Expo/static/js/app.c882bed7.chunk.js.map",
+    "runtime~app.js": "/DApp-Web3-IPFS-Expo/static/js/runtime~app.29baea32.js",
+    "runtime~app.js.map": "/DApp-Web3-IPFS-Expo/static/js/runtime~app.29baea32.js.map",
+    "static/js/2.99b7b27d.chunk.js": "/DApp-Web3-IPFS-Expo/static/js/2.99b7b27d.chunk.js",
+    "static/js/2.99b7b27d.chunk.js.map": "/DApp-Web3-IPFS-Expo/static/js/2.99b7b27d.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/DApp-Web3-IPFS-Expo/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/DApp-Web3-IPFS-Expo/favicon-16.png",
+    "favicon-32.png": "/DApp-Web3-IPFS-Expo/favicon-32.png",
+    "favicon.ico": "/DApp-Web3-IPFS-Expo/favicon.ico",
+    "index.html": "/DApp-Web3-IPFS-Expo/index.html",
+    "manifest.json": "/DApp-Web3-IPFS-Expo/manifest.json",
+    "serve.json": "/DApp-Web3-IPFS-Expo/serve.json",
+    "static/js/2.99b7b27d.chunk.js.LICENSE.txt": "/DApp-Web3-IPFS-Expo/static/js/2.99b7b27d.chunk.js.LICENSE.txt",
+    "static/media/file.png": "/DApp-Web3-IPFS-Expo/static/media/file.73e9524a.png",
+    "static/media/filePublic.png": "/DApp-Web3-IPFS-Expo/static/media/filePublic.2537e54c.png",
+    "static/media/folder.png": "/DApp-Web3-IPFS-Expo/static/media/folder.5107a6da.png",
+    "static/media/logo.png": "/DApp-Web3-IPFS-Expo/static/media/logo.a7ce87a3.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
-    "static/js/2.694a4a57.chunk.js",
+    "static/js/runtime~app.29baea32.js",
+    "static/js/2.99b7b27d.chunk.js",
     "static/js/app.c882bed7.chunk.js"
   ]
 }
