@@ -2,10 +2,18 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "DAppIPFS",
-  "short_name": "DAppIPFS",
+  "name": "DArchive",
+  "short_name": "DArchive",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.android.darchive",
+      "id": "com.android.darchive"
+    }
+  ],
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "\\DApp-Web3-IPFS-Expo\\pwa\\chrome-icon\\chrome-icon-144.png",
