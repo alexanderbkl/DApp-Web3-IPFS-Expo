@@ -2,15 +2,15 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "DArchive",
-  "short_name": "DArchive",
+  "name": "ounn",
+  "short_name": "ounn",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.android.darchive",
-      "id": "com.android.darchive"
+      "url": "http://play.google.com/store/apps/details?id=com.android.ounn",
+      "id": "com.android.ounn"
     }
   ],
   "prefer_related_applications": true,
